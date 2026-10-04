@@ -1,0 +1,9 @@
+Git Practice Notes
+
+1. git init - Initialize repository
+2. git add - Stage changes
+3. git commit - Save changes
+4. git branch - Create/list branches
+5. git checkout - Switch branches
+6. git merge - Merge branches
+7. git push - Push changes to GitHub
